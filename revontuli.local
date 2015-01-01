@@ -12,3 +12,4 @@ reattach-to-user-namespace
 tmux
 vim
 wget
+tree
